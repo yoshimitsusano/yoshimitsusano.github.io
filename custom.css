@@ -4,3 +4,7 @@ body {
       background-size:cover;
       background-repeat:no-repeat;
 }
+
+#app img {
+  width: 100%;
+}
